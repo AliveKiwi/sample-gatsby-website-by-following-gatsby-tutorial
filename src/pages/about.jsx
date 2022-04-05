@@ -3,7 +3,10 @@ import React from "react";
 const AboutPage = () => {
     return (
         <main>
-            <div>Hi, my name is AliveKiwi</div>
+            <title>About Me</title>
+            <h1>About Me</h1>
+            <Link to="/">Home</Link>
+            <p>Hi, my name is AliveKiwi</p>
         </main>
     )
 }
